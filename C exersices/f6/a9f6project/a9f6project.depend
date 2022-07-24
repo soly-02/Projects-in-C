@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607937716 source:c:\users\sofia\onedrive\desktop\university\Εργασίες\Διαδικαστικός Προγραμματισμός\f6\a9f6project\a9f6.c
+	<stdio.h>
+	"genlib.h"
+	"simpio.h"
+

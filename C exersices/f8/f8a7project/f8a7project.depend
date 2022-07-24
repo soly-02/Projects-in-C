@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1610355253 source:c:\users\sofia\onedrive\desktop\university\Εργασίες\Διαδικαστικός Προγραμματισμός\f8\f8a7project\a7f8.c
+	<stdio.h>
+	"genlib.h"
+	"simpio.h"
+	<string.h>
+

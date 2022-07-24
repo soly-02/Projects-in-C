@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1612905656 source:c:\users\sofia\onedrive\desktop\a11f9.project\a11f9.c
+	<stdio.h>
+	"genlib.h"
+	"simpio.h"
+	<string.h>
+
